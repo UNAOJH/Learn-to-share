@@ -28,9 +28,7 @@ public class PokerGame {
 
         hashMap.put(serialNumber, "小王");
         list.add(serialNumber);
-        System.out.println(hashMap);
-        System.out.println(list);
-    }
+        }
 
     public PokerGame() {
 
